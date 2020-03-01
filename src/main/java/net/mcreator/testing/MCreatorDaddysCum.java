@@ -55,8 +55,8 @@ public class MCreatorDaddysCum extends Elementstesting.ModElement {
 	@Override
 	public void initElements() {
 		fluidproperties = new ForgeFlowingFluid.Properties(() -> still, () -> flowing,
-				FluidAttributes.builder(new ResourceLocation("testing:blocks/cum"), new ResourceLocation("testing:blocks/cum")).luminosity(1)
-						.density(1000).viscosity(1000).gaseous()).bucket(() -> bucket).block(() -> block);
+				FluidAttributes.builder(new ResourceLocation("testing:blocks/cum"), new ResourceLocation("testing:blocks/cum")).luminosity(100)
+						.density(1138).viscosity(1000).gaseous()).bucket(() -> bucket).block(() -> block);
 		still = (FlowingFluid) new ForgeFlowingFluid.Source(fluidproperties).setRegistryName("daddyscum");
 		flowing = (FlowingFluid) new ForgeFlowingFluid.Flowing(fluidproperties).setRegistryName("daddyscum_flowing");
 		elements.blocks.add(() -> new FlowingFluidBlock(still, Block.Properties.create(Material.WATER)) {
