@@ -24,6 +24,14 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "TestTab",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -31,6 +39,7 @@
   "language_map": {
     "en_us": {
       "block.testing.testinggithub": "Testing github",
+      "itemGroup.tabtesttab": "Test Tab",
       "item.testing.testitem": "Testitem"
     }
   },
