@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "testing:block/fuckmeinmyass_portal_ew"
+    },
+    "axis=x": {
+      "model": "testing:block/fuckmeinmyass_portal_ns"
+    }
+  }
+}
