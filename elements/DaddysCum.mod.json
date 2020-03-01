@@ -8,7 +8,7 @@
     "luminosity": 1,
     "density": 1000,
     "viscosity": 1000,
-    "isGas": false,
+    "isGas": true,
     "type": "WATER",
     "generateBucket": true,
     "creativeTab": {

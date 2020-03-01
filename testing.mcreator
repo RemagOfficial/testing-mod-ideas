@@ -93,7 +93,7 @@
       "name": "Doaoaoa",
       "type": "musicdisc",
       "sortid": 8,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {}
     },
@@ -110,6 +110,8 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.testing.daddyscum_bucket": "DaddysCum Bucket",
+      "fluid.daddyscum": "DaddysCum",
       "block.testing.testinggithub": "Testing github",
       "item.testing.fuckmeinmyass": "demonitization",
       "itemGroup.tabtesttab": "Test Tab",
