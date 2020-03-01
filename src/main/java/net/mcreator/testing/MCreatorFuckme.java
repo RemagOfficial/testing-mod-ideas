@@ -27,7 +27,9 @@ public class MCreatorFuckme extends Elementstesting.ModElement {
 	}
 
 	private static LiteralArgumentBuilder<CommandSource> customCommand() {
-		return LiteralArgumentBuilder.<CommandSource>literal("fuckmedaddy").then(Commands.argument("arguments", StringArgumentType.greedyString()));
+		return LiteralArgumentBuilder.<CommandSource>literal("fuckmedaddy")
+				.then(Commands.argument("arguments", StringArgumentType.greedyString()).executes(MCreatorFuckme::execute))
+				.executes(MCreatorFuckme::execute);
 	}
 
 	private static int execute(CommandContext<CommandSource> ctx) {
@@ -43,6 +45,15 @@ public class MCreatorFuckme extends Elementstesting.ModElement {
 				cmdparams.put(Integer.toString(index[0]), param);
 				index[0]++;
 			});
+			{
+				java.util.HashMap<String, Object> $_dependencies = new java.util.HashMap<>();
+				$_dependencies.put("entity", entity);
+				$_dependencies.put("x", x);
+				$_dependencies.put("y", y);
+				$_dependencies.put("z", z);
+				$_dependencies.put("world", world);
+				MCreatorGUI.executeProcedure($_dependencies);
+			}
 		}
 		return 0;
 	}

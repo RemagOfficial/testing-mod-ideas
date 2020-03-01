@@ -1,0 +1,25 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "fuck me daddy i need more dick",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "fuck me daddy i need more dick",
+          "x": 279,
+          "y": 219
+        }
+      }
+    ]
+  }
+}
