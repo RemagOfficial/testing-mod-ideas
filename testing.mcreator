@@ -88,14 +88,24 @@
           }
         ]
       }
+    },
+    {
+      "name": "Doaoaoa",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.testing.doaoaoa": "Doaoaoa",
       "block.testing.testinggithub": "Testing github",
       "item.testing.fuckmeinmyass": "demonitization",
+      "item.testing.doaoaoa.desc": "fuck you",
       "itemGroup.tabtesttab": "Test Tab",
       "item.testing.testitem": "Testitem",
       "biome.testing.testbiome": "Testbiome"

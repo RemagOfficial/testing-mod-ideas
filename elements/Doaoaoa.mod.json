@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "download",
+    "name": "Doaoaoa",
+    "description": "fuck you",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "block.end_portal.spawn"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}
