@@ -12,7 +12,7 @@
     "portalSound": {
       "value": "block.portal.ambient"
     },
-    "igniterName": "FUCKMEINMYASS Portal Igniter",
+    "igniterName": "demonitization",
     "igniterTab": {
       "value": "TOOLS"
     },
@@ -35,7 +35,7 @@
       "value": "Blocks.LAVA"
     },
     "tertiaryFillerBlock": {
-      "value": ""
+      "value": "Blocks.WATER"
     },
     "fluidBlock": {
       "value": "Blocks.WATER"

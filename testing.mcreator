@@ -45,7 +45,7 @@
       "name": "Testbiome",
       "type": "biome",
       "sortid": 5,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {}
     }
@@ -55,6 +55,7 @@
   "language_map": {
     "en_us": {
       "block.testing.testinggithub": "Testing github",
+      "item.testing.fuckmeinmyass": "demonitization",
       "itemGroup.tabtesttab": "Test Tab",
       "item.testing.testitem": "Testitem"
     }
