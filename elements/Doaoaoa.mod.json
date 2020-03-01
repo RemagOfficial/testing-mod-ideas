@@ -9,7 +9,7 @@
       "value": "MISC"
     },
     "music": {
-      "value": "block.end_portal.spawn"
+      "value": "entity.enderdragon.death"
     },
     "specialInfo": [],
     "hasGlow": false

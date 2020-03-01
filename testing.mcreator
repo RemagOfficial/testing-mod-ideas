@@ -93,7 +93,7 @@
       "name": "Doaoaoa",
       "type": "musicdisc",
       "sortid": 8,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {}
     },
@@ -111,9 +111,11 @@
   "language_map": {
     "en_us": {
       "item.testing.daddyscum_bucket": "DaddysCum Bucket",
+      "item.testing.doaoaoa": "Doaoaoa",
       "fluid.daddyscum": "DaddysCum",
       "block.testing.testinggithub": "Testing github",
       "item.testing.fuckmeinmyass": "demonitization",
+      "item.testing.doaoaoa.desc": "fuck you",
       "itemGroup.tabtesttab": "Test Tab",
       "item.testing.testitem": "Testitem",
       "biome.testing.testbiome": "Testbiome"
