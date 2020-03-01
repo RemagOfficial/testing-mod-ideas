@@ -10,8 +10,8 @@
       "ids": {}
     },
     {
-      "name": "Test",
-      "type": "gui",
+      "name": "Testitem",
+      "type": "item",
       "sortid": 2,
       "compiles": true,
       "locked_code": false,
@@ -22,7 +22,8 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.testing.testinggithub": "Testing github"
+      "block.testing.testinggithub": "Testing github",
+      "item.testing.testitem": "Testitem"
     }
   },
   "workspaceSettings": {
