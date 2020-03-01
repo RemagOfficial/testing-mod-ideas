@@ -40,6 +40,14 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Testbiome",
+      "type": "biome",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -47,7 +55,6 @@
   "language_map": {
     "en_us": {
       "block.testing.testinggithub": "Testing github",
-      "item.testing.fuckmeinmyass": "FUCKMEINMYASS Portal Igniter",
       "itemGroup.tabtesttab": "Test Tab",
       "item.testing.testitem": "Testitem"
     }
