@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "testing:blocks/2020-01-20_18.54.47",
+    "particle": "testing:blocks/2020-01-20_18.54.47"
+  }
+}

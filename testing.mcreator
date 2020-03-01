@@ -1,0 +1,45 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Testinggithub",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Test",
+      "type": "gui",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.testing.testinggithub": "Testing github"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "testing",
+    "modName": "testing",
+    "version": "1.0.0",
+    "author": "lloyd",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.14.4",
+    "usesProFeatures": false,
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000209617
+}
